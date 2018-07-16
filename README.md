@@ -1,12 +1,5 @@
-# Discord.lib
+# Discord.lib is currently being worked on and is not functional, please do not use this library at this time.
 
-## A Discord API library written in Lua.
+Thank you,
 
---
-
-
-### Installation
-
-- To install Luvit, visit https://luvit.io and follow the instructions provided your operating system.
-- To install Discord.lib, run the following command `lit install maxchoid/discord.lib`
-- Run yur bot script using, `luvit bot.lua`
+Max Choi-deyoung
