@@ -1,4 +1,4 @@
-Discordia loads dynamic libraries using LuaJIT's `ffi.load` function. On Windows, you must rename your libopus file to `opus.dll` and your libsodium file to `sodium.dll`. They must both be placed in a proper directory. Use your main application directory if you are unsure of which to use. Also be sure to use the appropriate file for your architecture. This can be checked at `jit.arch`.
+Discordlib loads dynamic libraries using LuaJIT's `ffi.load` function. On Windows, you must rename your libopus file to `opus.dll` and your libsodium file to `sodium.dll`. They must both be placed in a proper directory. Use your main application directory if you are unsure of which to use. Also be sure to use the appropriate file for your architecture. This can be checked at `jit.arch`.
 
 From http://luajit.org/ext_ffi_api.html:
 
